@@ -12,7 +12,7 @@
     "npm": ">= 1.0.0"
   },
   "scripts": {
-    "start": "slack-irc-client -t ${SLACK_API_TOKEN}",
+    "start": "slack-irc-client -t ${SLACK_API_TOKEN}"
   },
   "private": true
 }
